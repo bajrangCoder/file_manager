@@ -1,0 +1,12 @@
+[package]
+name = "file_manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.38"
+eframe = "0.28.1"
+egui = "0.28.1"
+egui_extras = "0.28.1"
+egui_glium = "0.26.3"
+walkdir = "2.5.0"
