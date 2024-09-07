@@ -15,4 +15,4 @@ cargo run --release
 
 ## Demo
 
-![Demo]()
+![Demo](/images/demo/demo1.png)
